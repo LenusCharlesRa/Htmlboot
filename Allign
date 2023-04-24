@@ -4,10 +4,12 @@
 <style>
 .center {
   margin: auto;
-  width: 50%;
+  width: 40%;
   border: 3px solid #808080;
-  padding: 20px;
-}
+  padding: 25px;
+   word-spacing: 50px;
+    }
+
 </style>
 </head>
 <body>
