@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #808080;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="center">
+  <p> Home About Contacts FAQ</p>
+</div>
+
+</body>
+</html>
