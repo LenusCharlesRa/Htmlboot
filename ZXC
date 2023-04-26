@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+  <h1> I am investing into myself</h1>
+    <style type="text/css">
+        h1{
+        color:red;
+        }
+        #first-item{
+        background: yellow;    
+        }
+        .rest-items{
+        font-size: 25px;    
+        }
+    </style>
+
+</body>
+</html>
+
+<html>
+<head>
+<title></title>
+<style type="text/css"> 
+    h2{ 
+    color: aquamarine;
+    }
+
+    </style>
+   </head>
+<body>
+<h2> I'm improving myself everyday</h2>
+    
+<ul>
+
+    <li id="first-item"> Apple</li>
+    <li class="rest=items">Milk</li>
+    <li class="rest=items">Carrot</li>
+</ul>
+    
+</body>
+</html>
